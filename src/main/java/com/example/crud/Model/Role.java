@@ -1,4 +1,4 @@
-package com.example.crud;
+package com.example.crud.Model;
 
 import org.springframework.data.annotation.Id;
 

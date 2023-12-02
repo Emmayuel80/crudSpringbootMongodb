@@ -1,4 +1,4 @@
-package com.example.crud;
+package com.example.crud.Repository;
 
 import java.util.List;
 
